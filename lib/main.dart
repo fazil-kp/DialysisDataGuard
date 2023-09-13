@@ -1,8 +1,7 @@
-import 'package:blood_donation_app/project1/add.dart';
-import 'package:blood_donation_app/project1/home.dart';
-import 'package:blood_donation_app/project1/update.dart';
+import 'package:DialysisDataGuard/project1/add.dart';
+import 'package:DialysisDataGuard/project1/home.dart';
+import 'package:DialysisDataGuard/project1/update.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'firebase_options.dart';
 
