@@ -1,4 +1,4 @@
-# blood_donation_app
+# Dialysis Survey App
 
 A new Flutter project.
 
