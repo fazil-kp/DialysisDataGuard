@@ -21,7 +21,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Dialysis Survey App"),
+        title: const Text("DialysisDataGuard"),
         backgroundColor: Colors.red,
         centerTitle: true,
       ),
